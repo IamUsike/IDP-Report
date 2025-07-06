@@ -1,0 +1,656 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global/global}
+  \entry{gadgil2006monsoon}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=GS}{%
+         family={Gadgil},
+         familyi={G\bibinitperiod},
+         given={Sulochana},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Gadgil},
+         familyi={G\bibinitperiod},
+         given={Siddhartha},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JSTOR}%
+    }
+    \strng{namehash}{GSGS1}
+    \strng{fullhash}{GSGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{4887\bibrangedash 4895}
+    \field{title}{The Indian monsoon, GDP and agriculture}
+    \field{journaltitle}{Economic and Political Weekly}
+    \field{year}{2006}
+  \endentry
+
+  \entry{sarkar2019monsoon}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=SA}{%
+         family={Sarkar},
+         familyi={S\bibinitperiod},
+         given={Arindam},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Ghosh},
+         familyi={G\bibinitperiod},
+         given={Arabinda},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{SAGA1}
+    \strng{fullhash}{SAGA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3-4}
+    \field{pages}{423\bibrangedash 438}
+    \field{title}{Monsoon Variability and Agricultural Productivity in India}
+    \field{volume}{154}
+    \field{journaltitle}{Climatic Change}
+    \field{year}{2019}
+  \endentry
+
+  \entry{birthal2015}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=BPS}{%
+         family={Birthal},
+         familyi={B\bibinitperiod},
+         given={Pratap\bibnamedelima S},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Khan},
+         familyi={K\bibinitperiod},
+         given={Tajuddin},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Mishra},
+         familyi={M\bibinitperiod},
+         given={Suresh},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Agarwal},
+         familyi={A\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+    }
+    \strng{namehash}{BPS+1}
+    \strng{fullhash}{BPSKTMSAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{20\bibrangedash 36}
+    \field{title}{How sensitive is Indian agriculture to rainfall variability?}
+    \field{volume}{70}
+    \field{journaltitle}{Indian Journal of Agricultural Economics}
+    \field{year}{2015}
+  \endentry
+
+  \entry{ray2019climate}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=RDK}{%
+         family={Ray},
+         familyi={R\bibinitperiod},
+         given={Deepak\bibnamedelima K},
+         giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=GJS}{%
+         family={Gerber},
+         familyi={G\bibinitperiod},
+         given={James\bibnamedelima S},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MGK}{%
+         family={MacDonald},
+         familyi={M\bibinitperiod},
+         given={Graham\bibnamedelima K},
+         giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=WPC}{%
+         family={West},
+         familyi={W\bibinitperiod},
+         given={Paul\bibnamedelima C},
+         giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{RDK+1}
+    \strng{fullhash}{RDKGJSMGKWPC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 9}
+    \field{title}{Climate variation explains a third of global crop yield
+  variability}
+    \field{volume}{10}
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2019}
+  \endentry
+
+  \entry{timmer2009price}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=TCP}{%
+         family={Timmer},
+         familyi={T\bibinitperiod},
+         given={C.\bibnamedelima Peter},
+         giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TCP1}
+    \strng{fullhash}{TCP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{144}
+    \field{title}{Managing price volatility: Approaches at the global,
+  national, and household levels}
+    \field{journaltitle}{Center for Global Development Working Paper}
+    \field{year}{2009}
+  \endentry
+
+  \entry{jain2020deep}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=JR}{%
+         family={Jain},
+         familyi={J\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MHR}{%
+         family={Meena},
+         familyi={M\bibinitperiod},
+         given={H.\bibnamedelima R.},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=KN}{%
+         family={Kalra},
+         familyi={K\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{JR+1}
+    \strng{fullhash}{JRMHRKN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.agsy.2020.102913
+    \endverb
+    \field{pages}{102913}
+    \field{title}{Deep Learning for Forecasting Commodity Prices: Evidence from
+  Indian Markets}
+    \field{volume}{184}
+    \field{journaltitle}{Agricultural Systems}
+    \field{year}{2020}
+  \endentry
+
+  \entry{mahmud2025price}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=MA}{%
+         family={Mahmud},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Sinha},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=VP}{%
+         family={Varma},
+         familyi={V\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{MA+1}
+    \strng{fullhash}{MASSVP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{Forthcoming}
+    \field{number}{2}
+    \field{pages}{101\bibrangedash 112}
+    \field{title}{Price Forecasting for Agricultural Commodities Using LSTM
+  Networks}
+    \field{volume}{5}
+    \field{journaltitle}{Journal of Artificial Intelligence in Agriculture}
+    \field{year}{2025}
+  \endentry
+
+  \entry{cariappa2020impact}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=CAA}{%
+         family={Cariappa},
+         familyi={C\bibinitperiod},
+         given={A.\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=AKR}{%
+         family={Acharya},
+         familyi={A\bibinitperiod},
+         given={K.\bibnamedelima R.},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=ACA}{%
+         family={Adhav},
+         familyi={A\bibinitperiod},
+         given={C.\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sendhil},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Ramasundaram},
+         familyi={R\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Emerald Publishing Limited}%
+    }
+    \strng{namehash}{CAA+1}
+    \strng{fullhash}{CAAAKRACASRRP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1108/JADEE-06-2020-0114
+    \endverb
+    \field{number}{4}
+    \field{pages}{605\bibrangedash 620}
+    \field{title}{Impact of COVID-19 on Indian Agriculture: A Review}
+    \field{volume}{10}
+    \field{journaltitle}{Journal of Agribusiness in Developing and Emerging
+  Economies}
+    \field{year}{2020}
+  \endentry
+
+  \entry{kumar2024yield}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=KA}{%
+         family={Kumar},
+         familyi={K\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RMN}{%
+         family={Rao},
+         familyi={R\bibinitperiod},
+         given={M.\bibnamedelima N.},
+         giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Patel},
+         familyi={P\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{KA+1}
+    \strng{fullhash}{KARMNPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.compag.2023.107575
+    \endverb
+    \field{pages}{107575}
+    \field{title}{Yield Forecasting for Rice in Karnataka Using Machine
+  Learning Models}
+    \field{volume}{207}
+    \field{journaltitle}{Computers and Electronics in Agriculture}
+    \field{year}{2024}
+  \endentry
+
+  \entry{darekar2018price}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=DA}{%
+         family={Darekar},
+         familyi={D\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RAA}{%
+         family={Reddy},
+         familyi={R\bibinitperiod},
+         given={A.\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Indian Society of Agricultural Economics}%
+    }
+    \strng{namehash}{DARAA1}
+    \strng{fullhash}{DARAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{267\bibrangedash 274}
+    \field{title}{Price Forecasting of Agricultural Commodities Using ARIMA
+  Model}
+    \field{volume}{31}
+    \field{journaltitle}{Agricultural Economics Research Review}
+    \field{year}{2018}
+  \endentry
+
+  \entry{ghetiya2024ml}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=GND}{%
+         family={Ghetiya},
+         familyi={G\bibinitperiod},
+         given={N.\bibnamedelima D.},
+         giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=CNB}{%
+         family={Chauhan},
+         familyi={C\bibinitperiod},
+         given={N.\bibnamedelima B.},
+         giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=PAG}{%
+         family={Patel},
+         familyi={P\bibinitperiod},
+         given={A.\bibnamedelima G.},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GND+1}
+    \strng{fullhash}{GNDCNBPAG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.14569/IJACSA.2024.0150313
+    \endverb
+    \field{number}{3}
+    \field{pages}{92\bibrangedash 100}
+    \field{title}{Comparative Analysis of Machine Learning Algorithms for Crop
+  Yield Prediction}
+    \field{volume}{15}
+    \field{journaltitle}{International Journal of Advanced Computer Science and
+  Applications}
+    \field{year}{2024}
+  \endentry
+
+  \entry{ragunath2025cnn}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=RR}{%
+         family={Ragunath},
+         familyi={R\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Rathipriya},
+         familyi={R\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RRRR1}
+    \strng{fullhash}{RRRR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/ACCESS.2025.3289431
+    \endverb
+    \field{note}{Forthcoming}
+    \field{pages}{13540\bibrangedash 13552}
+    \field{title}{CNN-LSTM Based Hybrid Model for Forecasting Agricultural
+  Prices}
+    \field{volume}{13}
+    \field{journaltitle}{IEEE Access}
+    \field{year}{2025}
+  \endentry
+
+  \entry{tripathi2021mapping}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=TA}{%
+         family={Tripathi},
+         familyi={T\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Ghosh},
+         familyi={G\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=JPK}{%
+         family={Joshi},
+         familyi={J\bibinitperiod},
+         given={P.\bibnamedelima K.},
+         giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{TA+1}
+    \strng{fullhash}{TAGPJPK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1080/10106049.2019.1621133
+    \endverb
+    \field{number}{11}
+    \field{pages}{1240\bibrangedash 1256}
+    \field{title}{GIS-Based Suitability Mapping for Kharif Crops in Karnataka}
+    \field{volume}{36}
+    \field{journaltitle}{Geocarto International}
+    \field{year}{2021}
+  \endentry
+
+  \entry{henrich2020rainfall}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=HV}{%
+         family={Henrich},
+         familyi={H\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Reddy},
+         familyi={R\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BGS}{%
+         family={Bhat},
+         familyi={B\bibinitperiod},
+         given={G.\bibnamedelima S.},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{HV+1}
+    \strng{fullhash}{HVRCBGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.crm.2020.100204
+    \endverb
+    \field{pages}{100204}
+    \field{title}{Rainfall Variability and Trends in Karnataka, India:
+  Implications for Agriculture}
+    \field{volume}{27}
+    \field{journaltitle}{Climate Risk Management}
+    \field{year}{2020}
+  \endentry
+
+  \entry{singh2024ai}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=SR}{%
+         family={Singh},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sindhu},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{SRSR1}
+    \strng{fullhash}{SRSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.compag.2024.107863
+    \endverb
+    \field{pages}{107863}
+    \field{title}{Development of AI-Based Agricultural Advisory Systems for
+  Indian Farmers}
+    \field{volume}{210}
+    \field{journaltitle}{Computers and Electronics in Agriculture}
+    \field{year}{2024}
+  \endentry
+
+  \entry{niti2024}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={{NITI Aayog}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{https://www.niti.gov.in}}
+    \field{note}{Working population: 45.8\% in agriculture, forestry and
+  fishing — Accessed July 2025}
+    \field{title}{Macro and Fiscal Landscape of the State of Karnataka}
+    \field{year}{2025}
+  \endentry
+
+  \entry{kgisac2023}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=K}{%
+         family={{KSRSAC}},
+         familyi={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{K1}
+    \strng{fullhash}{K1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{https://kgis.ksrsac.in/kag/}}
+    \field{note}{Data on rural employment — Accessed July 2025}
+    \field{title}{Karnataka at a Glance}
+    \field{year}{2023}
+  \endentry
+
+  \entry{prasanna2014}{article}{}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=PV}{%
+         family={Prasanna},
+         familyi={P\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PV+1}
+    \strng{fullhash}{PV+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{Summer monsoon variations affect Kharif yield}
+    \field{number}{5}
+    \field{pages}{1129\bibrangedash 1145}
+    \field{title}{Impact of monsoon rainfall on the total foodgrain yield over
+  India}
+    \field{volume}{123}
+    \field{journaltitle}{Journal of Earth System Science}
+    \field{year}{2014}
+  \endentry
+
+  \entry{reuters_mon2025}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=R}{%
+         family={Reuters},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{R1}
+    \strng{fullhash}{R1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{Monsoon provides 70\% of agricultural water; nearly half
+  farmland non-irrigated}
+    \field{title}{India poised for above-average monsoon, vital to
+  \$4‑trillion economy}
+    \field{year}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{niti2024_gov}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=G}{%
+         family={{Government of Karnataka}},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{G1}
+    \strng{fullhash}{G1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{https://planning.karnataka.gov.in}}
+    \field{note}{Highlights digital agriculture initiatives — Accessed July
+  2025}
+    \field{title}{Karnataka: A \$1 Trillion GDP Vision}
+    \field{year}{2022}
+  \endentry
+\enddatalist
+\endinput
